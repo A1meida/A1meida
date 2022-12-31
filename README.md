@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @A1meida
-- 👀 I’m interested in java development
-- 🌱 I’m currently learning using Android Studio 
-- 💞️ I’m looking to collaborate on new Android Projects
+- 👀 I’m interested in java & python development
+- 💞️ Searching for frontend python developer to work with
 - 📫 How to reach me manuelcanalmeida2007@gmail.com
 
 <!---
