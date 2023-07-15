@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @A1meida
-- 👀 I’m interested in java & python development
-- 💞️ Searching for frontend python developer to work with
+- 👀 currently working on Games using C# and Unity
 - 📫 How to reach me manuelcanalmeida2007@gmail.com
 
 <!---
